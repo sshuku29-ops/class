@@ -1,3 +1,9 @@
+---
+title: Cinema
+aliases:
+  - Cinema
+---
+
 # Cinema — RU244 Russian Cinema From Lenin to Putin
 
 The two hubs:
