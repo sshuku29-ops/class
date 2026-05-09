@@ -20,4 +20,4 @@ The Constitution promised gender equality at the exact moment the state was bann
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

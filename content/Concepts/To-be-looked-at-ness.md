@@ -22,4 +22,4 @@ In Burnt by the Sun, Marusia stands in the doorway while Mitia plays piano. Her 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

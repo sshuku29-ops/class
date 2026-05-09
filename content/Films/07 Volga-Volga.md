@@ -33,4 +33,4 @@ Amateur Soviet performers from a provincial town travel to Moscow for the Musica
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

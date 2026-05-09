@@ -19,4 +19,4 @@ Brief Encounters (1968) sat shelved for 18 years. Glasnost in 1986 finally allow
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

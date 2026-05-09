@@ -6,4 +6,4 @@ Russian term for a love of foreign things — a cultural attitude that flourishe
 
 ---
 
-Back to [[Concepts]] | [[Cinema]]
+Back to [[Concepts]] | [[index|Cinema]]

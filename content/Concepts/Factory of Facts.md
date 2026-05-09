@@ -19,4 +19,4 @@ MWAMC's structure is a factory output: shots of factories at work, intercut with
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

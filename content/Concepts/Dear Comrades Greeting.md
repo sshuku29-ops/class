@@ -18,4 +18,4 @@ The "Dorogie tovarishchi!" is supposed to be a public address to comrades. Valen
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

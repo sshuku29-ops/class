@@ -21,4 +21,4 @@ Cranes flips the script: Boris is killed at the front; Veronika is "unfaithful" 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

@@ -22,4 +22,4 @@ Katerina in Moscow has spent 20 years building professional and personal autonom
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

@@ -18,4 +18,4 @@ A standard Thaw child-hero would be the optimistic Pioneer, the young son rebuil
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

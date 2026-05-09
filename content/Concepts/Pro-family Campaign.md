@@ -20,4 +20,4 @@ Moscow Doesn't Believe in Tears arrives at the peak of the pro-family campaign. 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

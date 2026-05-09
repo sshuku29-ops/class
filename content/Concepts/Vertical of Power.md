@@ -18,4 +18,4 @@ The Return's watchtower fall is the film's most explicit Vertical of Power image
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

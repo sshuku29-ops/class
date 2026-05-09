@@ -19,4 +19,4 @@ In MWAMC, the cameraman lies on the tracks to capture a train passing overhead; 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

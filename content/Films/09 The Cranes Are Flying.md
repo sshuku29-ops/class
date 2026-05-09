@@ -42,4 +42,4 @@ Veronika ("Squirrel") and Boris are in love when WWII begins. Boris enlists; lat
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

@@ -20,4 +20,4 @@ The 1955 re-legalization signals that women's reproductive autonomy was re-enter
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

@@ -19,4 +19,4 @@ The line "burying him means forgiving him" comes from Repentance's plot: a daugh
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

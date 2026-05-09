@@ -27,4 +27,4 @@
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

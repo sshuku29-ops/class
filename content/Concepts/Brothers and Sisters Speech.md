@@ -20,4 +20,4 @@ The "Brothers and sisters" salutation is the linguistic register of [[Spontaneou
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

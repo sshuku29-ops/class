@@ -24,4 +24,4 @@ The Thaw permits what Stalinism repressed: female subjectivity ([[Femininity]]),
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

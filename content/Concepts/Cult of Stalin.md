@@ -21,4 +21,4 @@ Post-1929 mass-mediated worship of Stalin as father, sun, demiurge. Consolidated
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

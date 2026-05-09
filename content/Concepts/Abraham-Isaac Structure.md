@@ -18,4 +18,4 @@ In Genesis, Abraham nearly sacrifices Isaac at God's command. In The Return, Iva
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

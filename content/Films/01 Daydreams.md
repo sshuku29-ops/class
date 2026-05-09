@@ -22,4 +22,4 @@ No assigned theoretical text. Frame through prof's lecture on pre-revolutionary 
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

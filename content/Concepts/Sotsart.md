@@ -17,4 +17,4 @@ Where Stalinist visual culture deployed banners, slogans, and Lenin imagery as i
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

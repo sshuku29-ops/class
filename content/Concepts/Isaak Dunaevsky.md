@@ -19,4 +19,4 @@ Volga-Volga's title theme, written by Dunaevsky, became one of the most-recogniz
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

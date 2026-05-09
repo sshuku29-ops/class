@@ -21,4 +21,4 @@ SR demands a positive hero, a guiding elder, a journey to consciousness, and an 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

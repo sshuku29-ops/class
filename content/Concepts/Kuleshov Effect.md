@@ -20,4 +20,4 @@ Kuleshov's classic experiment: the same neutral face of actor Mozzhukhin, cut wi
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

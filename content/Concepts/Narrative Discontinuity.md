@@ -17,4 +17,4 @@ In Brief Encounters, Maxim exists only on a tape recorder Nadia eventually erase
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

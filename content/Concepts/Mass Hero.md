@@ -18,4 +18,4 @@ Vakulenchuk dies in Act 2 of Potemkin, but the revolution continues — because 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

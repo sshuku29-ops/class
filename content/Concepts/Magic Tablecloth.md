@@ -25,4 +25,4 @@ Fitzpatrick's "Magic Tablecloth" was DL-excluded per the prof's email. Her "Pala
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

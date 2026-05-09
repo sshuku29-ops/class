@@ -21,4 +21,4 @@ The Stagnation's representational logic: gendered re-traditionalization (Equal b
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

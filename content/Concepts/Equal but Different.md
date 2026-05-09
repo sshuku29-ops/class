@@ -23,4 +23,4 @@ The prof has this directly on the study sheet. Quote Attwood's phrasing.
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

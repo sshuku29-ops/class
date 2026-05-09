@@ -20,4 +20,4 @@ Valentina has reached a senior post in city government — a triumph of Soviet w
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

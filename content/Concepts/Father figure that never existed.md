@@ -22,4 +22,4 @@ Larsen-as-text was DL-excluded per the prof's email. BUT: this exact quote appea
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

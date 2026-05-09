@@ -19,4 +19,4 @@ Where [[08 The Fall of Berlin]] (1949) shows Stalin descending in white uniform 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

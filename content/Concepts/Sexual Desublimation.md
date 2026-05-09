@@ -22,4 +22,4 @@ Little Vera (1987) features the first explicit sex scene in Soviet cinema. The s
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

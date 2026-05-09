@@ -22,4 +22,4 @@ The Secret Speech specifically attacks [[08 The Fall of Berlin]]: "only Stalin a
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

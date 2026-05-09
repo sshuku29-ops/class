@@ -18,4 +18,4 @@ Burnt by the Sun's entire dramatic structure depends on the Terror as offscreen 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

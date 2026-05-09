@@ -17,4 +17,4 @@ The Russian title of Bed and Sofa is *Tret'ia Meshchanskaia* — literally "Thir
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

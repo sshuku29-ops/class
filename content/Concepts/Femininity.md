@@ -23,4 +23,4 @@ Veronika in Cranes is the first major Soviet heroine permitted to be flawed — 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

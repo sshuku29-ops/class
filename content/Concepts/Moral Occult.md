@@ -18,4 +18,4 @@ After the [[Khrushchev Secret Speech]] (1956), official Soviet moral discourse l
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

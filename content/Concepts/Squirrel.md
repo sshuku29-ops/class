@@ -17,4 +17,4 @@ The transition of "Squirrel" from Boris's tender register to Mark's cruel one is
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

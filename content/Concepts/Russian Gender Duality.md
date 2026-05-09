@@ -22,4 +22,4 @@ Russian gender duality is the cultural structure that makes [[Equal but Differen
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

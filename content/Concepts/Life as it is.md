@@ -19,4 +19,4 @@ Every sequence of MWAMC: real workers in real factories, real women waking in re
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

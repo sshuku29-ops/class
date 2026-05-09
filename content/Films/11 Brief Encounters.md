@@ -28,4 +28,4 @@ Valentina is a senior city water official in a Soviet town. She loves Maxim, a g
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

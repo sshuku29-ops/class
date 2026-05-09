@@ -22,4 +22,4 @@ Volga-Volga's Moscow shines with abundance — clean streets, gleaming Stalinist
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

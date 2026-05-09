@@ -20,4 +20,4 @@ The master plot has a fixed sequence: ordinary protagonist → first failure →
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

@@ -30,4 +30,4 @@ Civil War. The peasant commander Vasilii Chapaev, naturally talented but ideolog
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

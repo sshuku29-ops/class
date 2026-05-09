@@ -20,4 +20,4 @@ Under Brezhnev, official ideology and lived reality bifurcated. Officially: deve
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

@@ -34,4 +34,4 @@ June 1936, two months before the Great Terror's first show trial. Colonel Sergei
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

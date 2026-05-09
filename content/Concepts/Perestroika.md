@@ -21,4 +21,4 @@ Perestroika doesn't just permit chernukha — it produces it. Glasnost lifts cen
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

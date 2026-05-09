@@ -21,4 +21,4 @@ The prof asks for "specific examples" of associative linking. Drill: well dream,
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

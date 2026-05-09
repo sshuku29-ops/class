@@ -20,4 +20,4 @@ NEP is the breathing space between revolutionary 1917â€“1921 and Stalinist 1928â
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

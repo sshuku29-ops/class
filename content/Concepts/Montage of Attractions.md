@@ -19,4 +19,4 @@ Odessa Steps cuts between descending Tsarist boots, the falling baby carriage, t
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

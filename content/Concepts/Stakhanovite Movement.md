@@ -22,4 +22,4 @@ The prof asks you to give EXAMPLES, so memorize Strelka and ideally one more (th
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

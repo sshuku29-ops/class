@@ -32,4 +32,4 @@ A day in the life of a Soviet city. No actors, no intertitles, no script — the
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

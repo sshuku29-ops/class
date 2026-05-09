@@ -26,4 +26,4 @@ Moscow housing-shortage ménage à trois: construction worker Kolia, his wife Li
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

@@ -20,4 +20,4 @@ Beumers identifies 2003–04 as Russian cinema's breakthrough year — partly be
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

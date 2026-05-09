@@ -22,4 +22,4 @@ In Chapaev, the title character begins as a brilliant but intuitive Civil War co
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

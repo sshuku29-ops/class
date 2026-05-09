@@ -18,4 +18,4 @@ In 1951, the Soviet Union released only 9 feature films. The cineanemia period's
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

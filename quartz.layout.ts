@@ -41,7 +41,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: { depth: 2 },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -64,5 +66,10 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [Component.Graph(), Component.Backlinks()],
+  right: [
+    Component.Graph({
+      localGraph: { depth: 2 },
+    }),
+    Component.Backlinks(),
+  ],
 }

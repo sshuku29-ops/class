@@ -20,4 +20,4 @@ The opening of MWAMC films a woman waking through her window. Vertov's stated ph
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

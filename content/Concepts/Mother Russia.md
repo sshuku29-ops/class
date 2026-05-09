@@ -26,4 +26,4 @@ The Mother Russia ideology requires a woman to embody national suffering and con
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

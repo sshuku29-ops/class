@@ -19,4 +19,4 @@ The cracked pince-nez of the bourgeois woman (extreme close-up) is cut against t
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

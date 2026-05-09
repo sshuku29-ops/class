@@ -117,4 +117,4 @@ All theoretical concepts, terms, and frameworks from the RU244 syllabus, organiz
 
 ---
 
-Back to [[Cinema]] | Go to [[Films]]
+Back to [[index|Cinema]] | Go to [[Films]]

@@ -23,4 +23,4 @@ Stites was DL-assigned. Use the concept; attribute via the prof's lecture framin
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

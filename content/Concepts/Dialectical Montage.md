@@ -4,4 +4,4 @@ See [[Intellectual Montage]] — Eisenstein's preferred dual term. Same concept;
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

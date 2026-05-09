@@ -19,4 +19,4 @@ The well dream in Ivan's Childhood holds on Ivan's mother for an extended durati
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

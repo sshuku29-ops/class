@@ -26,4 +26,4 @@ Quote it word-for-word if asked — the prof literally has this on the study she
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

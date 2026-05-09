@@ -21,4 +21,4 @@ The 1936 anti-abortion law passed in the same year as the Stalin Constitution th
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

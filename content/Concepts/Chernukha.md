@@ -21,4 +21,4 @@ Little Vera's port-town setting — drunkenness, family violence, sexual exhaust
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

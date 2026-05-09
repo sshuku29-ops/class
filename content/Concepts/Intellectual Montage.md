@@ -19,4 +19,4 @@ The three marble lion statues at Alupka Palace are shot in succession (one sleep
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

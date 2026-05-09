@@ -41,4 +41,4 @@ All 15 films from the RU244 syllabus, in study-sheet order. Click any to open.
 
 ---
 
-Back to [[Cinema]] | Go to [[Concepts]]
+Back to [[index|Cinema]] | Go to [[Concepts]]

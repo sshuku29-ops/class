@@ -18,4 +18,4 @@ Zhdanov's 1946 attacks on Akhmatova and Zoshchenko set the cultural tone — any
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

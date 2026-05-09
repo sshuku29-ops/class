@@ -33,4 +33,4 @@ Two brothers, Andrei (~14) and Ivan (~12), live with their mother in a coastal R
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

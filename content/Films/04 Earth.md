@@ -24,4 +24,4 @@ No major assigned theoretical text specific to Earth. Frame within [[Socialist R
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

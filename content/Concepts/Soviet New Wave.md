@@ -23,4 +23,4 @@ The Soviet New Wave's defining moves: subjective camera (Urusevsky in Cranes), a
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

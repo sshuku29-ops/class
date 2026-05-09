@@ -27,4 +27,4 @@ The prof names Mulvey on the study sheet. Cite "Visual Pleasure and Narrative Ci
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

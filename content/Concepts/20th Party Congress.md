@@ -19,4 +19,4 @@ The 20th Party Congress is the institutional event the Thaw builds from. Cranes 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

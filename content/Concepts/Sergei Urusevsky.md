@@ -18,4 +18,4 @@ The Mark assault scene (your Sprint 3): Urusevsky drowns almost the whole frame 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

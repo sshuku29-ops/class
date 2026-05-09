@@ -21,4 +21,4 @@ Katerina runs a factory by day and cooks/cleans/raises Aleksandra alone by night
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

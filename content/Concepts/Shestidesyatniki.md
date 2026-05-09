@@ -21,4 +21,4 @@ The shestidesyatniki are the children of the [[20th Party Congress]] and the [[K
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

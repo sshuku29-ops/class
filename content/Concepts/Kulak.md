@@ -16,4 +16,4 @@ Earth dramatizes the class conflict of collectivization. The young Bolshevik Vas
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

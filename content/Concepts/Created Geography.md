@@ -18,4 +18,4 @@ A character looks left, then a building is shown — the viewer accepts that the
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

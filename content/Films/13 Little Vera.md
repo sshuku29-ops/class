@@ -30,4 +30,4 @@ A working-class family in a Soviet industrial port town (Zhdanov, now Mariupol).
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

@@ -6,4 +6,4 @@ Late-Soviet anxiety over falling birth rates and family instability. One of the 
 
 ---
 
-Back to [[Concepts]] | [[Cinema]]
+Back to [[Concepts]] | [[index|Cinema]]

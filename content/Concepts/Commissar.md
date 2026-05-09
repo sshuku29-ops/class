@@ -18,4 +18,4 @@ In Chapaev, Furmanov arrives at Chapaev's unit to find a brilliant but ideologic
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

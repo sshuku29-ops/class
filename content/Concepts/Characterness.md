@@ -19,4 +19,4 @@ Valentina in Brief Encounters is simultaneously a lover (of the absent Maxim), a
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

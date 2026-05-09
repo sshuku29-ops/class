@@ -16,4 +16,4 @@ The grandfather's death under the apple tree in Earth: Dovzhenko frames the dyin
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

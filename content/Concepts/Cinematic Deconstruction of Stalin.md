@@ -18,4 +18,4 @@ Each film in the tradition does specific anti-Stalinist work. Repentance: the fo
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

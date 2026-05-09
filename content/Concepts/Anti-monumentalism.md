@@ -21,4 +21,4 @@ Where Fall of Berlin (1949) ends with the geometric massed cheering of liberated
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

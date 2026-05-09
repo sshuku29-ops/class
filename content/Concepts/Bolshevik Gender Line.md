@@ -23,4 +23,4 @@ Kollontai-as-DL was excluded per the prof's email. Use the concept; cite via the
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

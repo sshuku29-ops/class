@@ -19,4 +19,4 @@ The shot of the boys discovering the Father asleep on the bed is a direct Manteg
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

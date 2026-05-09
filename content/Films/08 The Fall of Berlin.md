@@ -24,4 +24,4 @@ Stalinist WWII epic. The Soviet steel-worker Aleksei Ivanov fights through the G
 
 ---
 
-Back to [[Films]] | [[Cinema]]
+Back to [[Films]] | [[index|Cinema]]

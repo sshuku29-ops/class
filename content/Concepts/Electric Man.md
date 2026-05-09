@@ -23,4 +23,4 @@ This is the framework you missed in your original Sprint 1 — the prof flagged 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

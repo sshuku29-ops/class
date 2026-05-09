@@ -19,4 +19,4 @@ Cranes signals melodrama through every formal choice: inflated emotional registe
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

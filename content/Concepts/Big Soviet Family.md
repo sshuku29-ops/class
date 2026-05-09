@@ -28,4 +28,4 @@ In Chapaev, the [[Commissar]] Furmanov is the elder brother who educates the spo
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

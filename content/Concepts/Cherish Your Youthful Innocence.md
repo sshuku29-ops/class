@@ -22,4 +22,4 @@ The prof asks specifically: "applied to whom and in what contexts?" — answer: 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]

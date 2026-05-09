@@ -18,4 +18,4 @@ Vakulenchuk, the doomed sailor-leader in Potemkin, is played by a worker with a 
 
 ---
 
-[[Concepts]] | [[Cinema]]
+[[Concepts]] | [[index|Cinema]]
