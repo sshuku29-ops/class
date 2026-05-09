@@ -38,7 +38,25 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const order = ["Films", "Concepts"]
+        const ai = order.indexOf(a.displayName)
+        const bi = order.indexOf(b.displayName)
+        if (ai !== -1 || bi !== -1) {
+          if (ai === -1) return 1
+          if (bi === -1) return -1
+          return ai - bi
+        }
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [
     Component.Graph({
@@ -64,7 +82,25 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const order = ["Films", "Concepts"]
+        const ai = order.indexOf(a.displayName)
+        const bi = order.indexOf(b.displayName)
+        if (ai !== -1 || bi !== -1) {
+          if (ai === -1) return 1
+          if (bi === -1) return -1
+          return ai - bi
+        }
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [
     Component.Graph({
