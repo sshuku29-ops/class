@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Intellectual Montage / Dialectical Montage 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[02 Battleship Potemkin]] on the prof's exam study sheet. Part I-B Option 1 candidate.

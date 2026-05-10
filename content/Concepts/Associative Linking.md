@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Associative Linking 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[10 Ivan's Childhood]] on the prof's exam study sheet. Part I-B Option 1 candidate. **The prof asks specifically for SPECIFIC EXAMPLES — drill at least three.**

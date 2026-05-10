@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Meshchanstvo / Мещанство 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[05 Bed and Sofa]] on the prof's exam study sheet. Part I-B Option 1 candidate.

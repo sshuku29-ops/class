@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Equal but Different 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[12 Moscow Doesn't Believe in Tears]] on the prof's exam study sheet. Part I-B Option 1 candidate.

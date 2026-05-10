@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Big Soviet Family / Big Family Myth 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[06 Chapaev]] on the prof's exam study sheet. Part I-B Option 1 candidate. **The prof identifies this as a foundational framework in the essay rubric — name it explicitly.**

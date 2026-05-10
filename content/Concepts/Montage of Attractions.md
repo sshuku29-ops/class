@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Montage of Attractions 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[02 Battleship Potemkin]] on the prof's exam study sheet. Part I-B Option 1 candidate.

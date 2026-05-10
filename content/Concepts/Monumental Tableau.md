@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Monumental Tableau 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[04 Earth]] on the prof's exam study sheet. Part I-B Option 1 candidate.

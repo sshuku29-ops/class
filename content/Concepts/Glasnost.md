@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Glasnost / Гласность 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[13 Little Vera]] on the prof's exam study sheet (paired with [[Perestroika]]). Part I-B Option 1 candidate.

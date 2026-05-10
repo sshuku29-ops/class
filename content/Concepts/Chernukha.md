@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Chernukha / Чернуха 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[13 Little Vera]] on the prof's exam study sheet. Part I-B Option 1 candidate. **The prof asks for stylistic and narrative devices defining chernukha plus a specific scene or image.**

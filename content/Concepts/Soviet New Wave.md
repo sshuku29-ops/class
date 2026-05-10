@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Soviet New Wave 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[09 The Cranes Are Flying]] on the prof's exam study sheet. The prof says **"see Prokhorov"** — cite him directly.
