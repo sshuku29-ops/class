@@ -1,119 +1,142 @@
 # Concepts
 
-All theoretical concepts, terms, and frameworks from the RU244 syllabus, organized by author/source. Click any to open.
+🎯 = on the prof's exam study sheet (guaranteed exam material). She picks 10 of these for Part I-B Option 1.
+📚 = supplementary (useful for essay/shot analysis, not directly named on study sheet).
 
-## Eisenstein (montage theory)
-- [[Typage]]
-- [[Montage of Attractions]]
-- [[Intellectual Montage]]
-- [[Conflict of Scales]]
-- [[Mass Hero]]
+## 🎯 Study Sheet Concepts — by film
 
-## Vertov (Constructivist documentary)
-- [[Kino-Eye]]
-- [[Life as it is]]
-- [[Electric Man]]
-- [[Factory of Facts]]
+### Battleship Potemkin (1925)
+- 🎯 [[Typage]]
+- 🎯 [[Montage of Attractions]]
+- 🎯 [[Intellectual Montage]]
 
-## Kuleshov (early Soviet montage)
-- [[Kuleshov Effect]]
-- [[Created Geography]]
+### Man with a Movie Camera (1929)
+- 🎯 [[NEP]]
+- 🎯 [[Kino-Eye]] (Kinoglaz)
+- 🎯 [[Life as it is]]
+- 🎯 [[Electric Man]]
 
-## Clark — Socialist Realism
-- [[Big Soviet Family]]
-- [[Spontaneity-Consciousness Dialectic]]
-- [[Modal Schizophrenia]]
-- [[Socialist Realism]]
-- [[Master Plot]]
-- [[Commissar]]
+### Earth (1930)
+- 🎯 [[Kulak]]
+- 🎯 [[Monumental Tableau]]
 
-## Stalinist State Policies
-- [[Stalin Constitution]]
-- [[Stakhanovite Movement]]
-- [[Anti-abortion Law 1936]]
-- [[Cult of Stalin]]
-- [[Lunacharsky's SR Definition]]
-- [[Isaak Dunaevsky]]
-- [[Magic Tablecloth]]
-- [[Great Terror]]
+### Bed and Sofa (1926/27)
+- 🎯 [[Meshchanstvo]]
 
-## War-era and Post-war
-- [[Brothers and Sisters Speech]]
-- [[Spontaneous De-Stalinization]]
-- [[Cineanemia]]
-- [[Zhdanovshchina]]
+### Chapaev (1934)
+- 🎯 [[Commissar]]
+- 🎯 [[Socialist Realism]]
+- 🎯 [[Modal Schizophrenia]]
+- 🎯 [[Spontaneity-Consciousness Dialectic]]
+- 🎯 [[Big Soviet Family]]
 
-## Prokhorov — Thaw cinema
-- [[Khrushchev Thaw]]
-- [[Khrushchev Secret Speech]]
-- [[20th Party Congress]]
-- [[Soviet New Wave]]
-- [[Anti-monumentalism]]
-- [[Femininity]]
-- [[Sergei Urusevsky]]
-- [[Squirrel]]
-- [[Trench Truth]]
-- [[Stalinist Family + War Trope]]
-- [[1955 Abortion Re-legalized]]
+### Volga-Volga (1938)
+- 🎯 [[Stalin Constitution]]
+- 🎯 [[Stakhanovite Movement]]
+- 🎯 [[Isaak Dunaevsky]]
 
-## Tarkovsky
-- [[Sculpting in Time]]
-- [[Associative Linking]]
-- [[Child Hero]]
+### The Cranes Are Flying (1957)
+- 🎯 [[Khrushchev Thaw]]
+- 🎯 [[20th Party Congress]]
+- 🎯 [[Soviet New Wave]]
 
-## Muratova
-- [[Characterness]]
-- [[Narrative Discontinuity]]
-- [[Dear Comrades Greeting]]
+### Ivan's Childhood (1962)
+- 🎯 [[Associative Linking]]
 
-## Brezhnev Stagnation
-- [[Brezhnev Stagnation]]
-- [[Shestidesyatniki]]
-- [[Second Economy]]
-- [[Double Burden]]
-- [[Equal but Different]]
-- [[Pro-family Campaign]]
-- [[Re-traditionalization]]
-- [[Mother Russia]]
-- [[Just an ordinary baba]]
+### Moscow Doesn't Believe in Tears (1979)
+- 🎯 [[Double Burden]]
+- 🎯 [[Equal but Different]]
 
-## Mulvey
-- [[Male Gaze]]
-- [[Scopophilia]]
-- [[To-be-looked-at-ness]]
+### Little Vera (1987)
+- 🎯 [[Perestroika]]
+- 🎯 [[Glasnost]]
+- 🎯 [[Chernukha]]
+- 🎯 [[Sotsart]]
 
-## Igor Kon
-- [[Sexual Desublimation]]
-- [[Russian Gender Duality]]
+### Named theorists in the essay rubric
+- 🎯 [[Male Gaze]] (Mulvey, named on study sheet)
 
-## NEP and pre-Stalinist gender
-- [[NEP]]
-- [[Bolshevik Gender Line]]
-- [[Meshchanstvo]]
-- [[Kulak]]
-- [[Monumental Tableau]]
+---
 
-## Melodrama (McReynolds, Brooks)
-- [[Melodrama]]
-- [[Moral Occult]]
+## 📚 Supplementary Concepts (essay + shot analysis support)
 
-## Perestroika and Chernukha
-- [[Perestroika]]
-- [[Glasnost]]
-- [[Chernukha]]
-- [[Sotsart]]
-- [[Cherish Your Youthful Innocence]]
+### Eisenstein (montage theory)
+- 📚 [[Conflict of Scales]]
+- 📚 [[Mass Hero]]
 
-## Burnt by the Sun
-- [[Cinematic Deconstruction of Stalin]]
-- [[Father figure that never existed]]
-- [[Burying him means forgiving him]]
+### Vertov (Constructivist documentary)
+- 📚 [[Factory of Facts]]
 
-## The Return / Putin Era
-- [[Putin Era]]
-- [[Vertical of Power]]
-- [[Mantegna's Dead Christ]]
-- [[Abraham-Isaac Structure]]
+### Stalinist State Policies
+- 📚 [[Anti-abortion Law 1936]]
+- 📚 [[Cult of Stalin]]
+- 📚 [[Lunacharsky's SR Definition]]
+- 📚 [[Magic Tablecloth]]
+- 📚 [[Great Terror]]
+- 📚 [[Master Plot]]
+
+### War-era and Late Stalinism
+- 📚 [[Brothers and Sisters Speech]]
+- 📚 [[Spontaneous De-Stalinization]]
+- 📚 [[Cineanemia]]
+- 📚 [[Zhdanovshchina]]
+
+### Thaw and Soviet New Wave
+- 📚 [[Khrushchev Secret Speech]]
+- 📚 [[Anti-monumentalism]]
+- 📚 [[Femininity]]
+- 📚 [[Sergei Urusevsky]]
+- 📚 [[Squirrel]]
+- 📚 [[Trench Truth]]
+- 📚 [[Stalinist Family + War Trope]]
+- 📚 [[1955 Abortion Re-legalized]]
+
+### Tarkovsky
+- 📚 [[Sculpting in Time]]
+- 📚 [[Child Hero]]
+
+### Muratova
+- 📚 [[Characterness]]
+- 📚 [[Narrative Discontinuity]]
+- 📚 [[Dear Comrades Greeting]]
+
+### Brezhnev Stagnation
+- 📚 [[Brezhnev Stagnation]]
+- 📚 [[Shestidesyatniki]]
+- 📚 [[Second Economy]]
+- 📚 [[Pro-family Campaign]]
+- 📚 [[Re-traditionalization]]
+- 📚 [[Mother Russia]]
+- 📚 [[Just an ordinary baba]]
+
+### Mulvey (related)
+- 📚 [[Scopophilia]]
+- 📚 [[To-be-looked-at-ness]]
+
+### Igor Kon
+- 📚 [[Sexual Desublimation]]
+- 📚 [[Russian Gender Duality]]
+
+### NEP / Pre-Stalinist
+- 📚 [[Bolshevik Gender Line]]
+
+### Melodrama
+- 📚 [[Melodrama]]
+- 📚 [[Moral Occult]]
+
+### Perestroika
+- 📚 [[Cherish Your Youthful Innocence]]
+
+### Burnt by the Sun
+- 📚 [[Cinematic Deconstruction of Stalin]]
+- 📚 [[Father figure that never existed]]
+- 📚 [[Burying him means forgiving him]]
+
+### The Return / Putin Era
+- 📚 [[Putin Era]]
+- 📚 [[Vertical of Power]]
+- 📚 [[Mantegna's Dead Christ]]
+- 📚 [[Abraham-Isaac Structure]]
 
 ---
 

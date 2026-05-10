@@ -1,4 +1,7 @@
-# Pro-family Campaign / Demographic Crisis
+# Pro-family Campaign / Demographic Crisis 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Period:** 1970s (sharpened after 1979 Afghanistan invasion)
 **Author:** Lynne Attwood

@@ -1,4 +1,7 @@
-# "Cherish Your Youthful Innocence"
+# "Cherish Your Youthful Innocence" 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Source:** Pushkin epigraph (Russian: "Береги честь смолоду" — closer to "guard your honor from youth")
 **Film context:** [[13 Little Vera]] (1987)

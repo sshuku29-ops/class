@@ -1,4 +1,7 @@
-# Magic Tablecloth
+# Magic Tablecloth 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Author:** Sheila Fitzpatrick
 **Source:** *Everyday Stalinism* (NOTE: "Magic Tablecloth" essay was DL-assigned; Fitzpatrick's "Palaces on Monday" is the assigned text)

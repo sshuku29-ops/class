@@ -1,6 +1,6 @@
 # Films
 
-All 15 films from the RU244 syllabus, in study-sheet order. Click any to open.
+All 15 films from the RU244 syllabus, in study-sheet order.
 
 ## Pre-Revolutionary
 - [[01 Daydreams]] (1915, Bauer)

@@ -1,4 +1,7 @@
-# Sculpting in Time
+# Sculpting in Time 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Author:** Andrei Tarkovsky
 **Source:** *Sculpting in Time* (book of essays); "The Film Image" (handout in syllabus)

@@ -1,4 +1,7 @@
-# Vertical of Power / Вертикаль власти
+# Vertical of Power / Вертикаль власти 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Source:** Putin-era political doctrine; cited in Beumers + Baker & Glasser; named in your assigned study guide
 

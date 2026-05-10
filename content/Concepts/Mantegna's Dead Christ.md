@@ -1,4 +1,7 @@
-# Mantegna's Dead Christ
+# Mantegna's Dead Christ 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Source:** Andrea Mantegna, *Lamentation of Christ* / *Dead Christ* (c. 1480, Pinacoteca di Brera, Milan)
 **Cited in:** Your prof's official Return study guide includes the painting as a reference image

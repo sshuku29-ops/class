@@ -1,4 +1,7 @@
-# Khrushchev Secret Speech
+# Khrushchev Secret Speech 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Author:** Nikita Khrushchev
 **Source:** "On the Cult of Personality and Its Consequences," delivered to closed session of the [[20th Party Congress]], 25 February 1956
