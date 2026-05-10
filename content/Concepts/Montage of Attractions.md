@@ -1,21 +1,32 @@
-# Montage of Attractions
+# Montage of Attractions 🎯
 
-**Author:** Sergei Eisenstein
-**Source:** "Montage of Attractions" (LEF, 1923)
+> **🎯 STUDY SHEET CONCEPT** — listed under [[02 Battleship Potemkin]] on the prof's exam study sheet. Part I-B Option 1 candidate.
+
+## Source
+
+**Sergei Eisenstein**, "Montage of Attractions" (Монтаж аттракционов), originally published in *LEF* 3 (1923); reprinted in *The Eisenstein Reader* (ed. Richard Taylor) and *Film Form*.
 
 ## Definition
-Cinema as a circus of discrete shocks/effects strung together to ideologically work the audience, not to tell a smooth story. Each cut is an "attraction" — a stimulus calibrated for ideological effect, not for narrative continuity. Treats the viewer like a Pavlovian subject: body absorbs the shock before mind processes it.
+
+Eisenstein defines the montage of attractions as "a free montage of arbitrarily selected, independent" stimuli — discrete shocks chosen for their effect on the audience rather than for narrative continuity. Each cut is an "attraction": a calculated emotional or ideological stimulus that strikes the viewer's body before the mind processes it. Eisenstein's term comes from the circus: a string of independent acts (acrobat, clown, animal trainer) sequenced for maximum effect on the audience, not for narrative integration.
+
+## Key context
+
+The montage of attractions is a Marxist-Pavlovian theory of cinema. Soviet revolutionary cinema, Eisenstein argued, must agitate (work on) the viewer's body as an organism, not seduce them as a bourgeois consciousness. The viewer is treated as a subject whose responses can be calibrated through editing, the way a Pavlovian experimentalist calibrates a reflex. This makes cinema a tool of revolutionary consciousness-formation, not bourgeois entertainment.
 
 ## Films using it
-- [[02 Battleship Potemkin]] — the Odessa Steps sequence
 
-## Example
-Odessa Steps cuts between descending Tsarist boots, the falling baby carriage, the screaming mother with the cracked pince-nez. Each cut is a shock rather than a narrative beat. The principle is that revolutionary cinema agitates rather than entertains.
+- 🎯 [[02 Battleship Potemkin]] — the canonical case (Odessa Steps sequence)
 
-## Related concepts
-- [[Intellectual Montage]] — extension of attractions into pure idea
-- [[Conflict of Scales]] — one specific kind of attraction (scale shock)
-- [[Typage]] — the casting parallel
+## Concrete example (write this in your exam answer)
+
+The Odessa Steps sequence in *Battleship Potemkin* (1925) is the canonical montage of attractions: Eisenstein cuts between descending Tsarist boots in close-up, the falling baby carriage in long shot, the screaming mother with a cracked pince-nez, and the geometric mass of Cossack troops. Each cut is a shock rather than a narrative beat; the viewer's body absorbs the violence before the mind reconstructs the scene's space. Eisenstein's principle: "an attraction is every aggressive moment in [theatre, cinema], that is, every element of it that brings to light in the spectator those senses or that psychology that influence his experience."
+
+## Related
+
+- [[Intellectual Montage]] — the extension of attractions into pure idea
+- [[Conflict of Scales]] — one specific category of attraction
+- [[Typage]] — the casting-level counterpart
 
 ---
 

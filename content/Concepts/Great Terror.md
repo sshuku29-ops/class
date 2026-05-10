@@ -1,4 +1,7 @@
-# Great Terror (1936–1938)
+# Great Terror (1936–1938) 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Period:** August 1936 (Zinoviev–Kamenev show trial) through November 1938
 

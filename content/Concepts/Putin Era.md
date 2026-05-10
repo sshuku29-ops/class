@@ -1,4 +1,7 @@
-# Putin Era
+# Putin Era 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Period:** 1999– (Putin appointed PM August 1999; Acting President December 31, 1999)
 **Source:** Beumers, *History of Russian Cinema*; Baker & Glasser, *Kremlin Rising*

@@ -1,4 +1,7 @@
-# Spontaneous De-Stalinization
+# Spontaneous De-Stalinization 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Author:** Richard Stites
 **Source:** *Russian Popular Culture* (DL-flagged; concept available via prof's lecture)

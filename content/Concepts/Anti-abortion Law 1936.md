@@ -1,4 +1,7 @@
-# Anti-abortion Law (1936)
+# Anti-abortion Law (1936) 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Source:** Soviet Council of People's Commissars decree, 27 June 1936
 

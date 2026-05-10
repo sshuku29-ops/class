@@ -1,4 +1,7 @@
-# "Burying him means forgiving him"
+# "Burying him means forgiving him" 📚
+
+> **📚 SUPPLEMENTARY** — appears in assigned readings or lectures, useful for the essay (Option 2) and for shot analysis (Parts II + III). Not directly named on the prof's exam study sheet, so unlikely to appear as a Part I-B Option 1 question.
+
 
 **Source:** *Repentance* (1984, released 1986; dir. Tengiz Abuladze) — Ketevan's line
 **Period:** Foundational text of [[Cinematic Deconstruction of Stalin]]
