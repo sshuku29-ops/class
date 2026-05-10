@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Life as it is / Life Caught Unawares 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[03 Man with a Movie Camera]] on the prof's exam study sheet. Part I-B Option 1 candidate.

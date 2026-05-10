@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Sotsart / Соц-арт 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[13 Little Vera]] on the prof's exam study sheet. Part I-B Option 1 candidate.

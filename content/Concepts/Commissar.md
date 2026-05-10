@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Commissar 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[06 Chapaev]] on the prof's exam study sheet. Part I-B Option 1 candidate.

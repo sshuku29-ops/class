@@ -1,3 +1,8 @@
+---
+tags:
+  - supplementary
+---
+
 # Demographic Crisis
 
 Late-Soviet anxiety over falling birth rates and family instability. One of the drivers behind the [[Pro-family Campaign]] and the 1970s redefinition of Soviet gender equality (see [[Equal but Different]]).

@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # 20th Communist Party Congress 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[09 The Cranes Are Flying]] on the prof's exam study sheet. Part I-B Option 1 candidate. **The prof asks specifically for the year AND major developments.**

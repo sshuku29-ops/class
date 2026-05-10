@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # NEP / New Economic Policy 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[03 Man with a Movie Camera]] on the prof's exam study sheet. Part I-B Option 1 candidate. **The prof's own model answer for this concept is on the office-hours handout — match its register.**

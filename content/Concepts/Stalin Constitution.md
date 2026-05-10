@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Stalin Constitution (1936) 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — listed under [[07 Volga-Volga]] on the prof's exam study sheet. Part I-B Option 1 candidate.

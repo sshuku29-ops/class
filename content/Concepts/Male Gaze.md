@@ -1,3 +1,8 @@
+---
+tags:
+  - study-sheet
+---
+
 # Male Gaze 🎯
 
 > **🎯 STUDY SHEET CONCEPT** — explicitly named on the prof's exam study sheet under the essay rubric: "try to name specific theoreticians, such as Eisenstein, Vertov, Tarkovsky, **Laura Mulvey and the Male Gaze**." Part I-B Option 1 candidate AND essential for the essay (Option 2).
